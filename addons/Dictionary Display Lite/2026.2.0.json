@@ -1,0 +1,55 @@
+{
+	"addonId": "Dictionary Display Lite",
+	"displayName": "Dictionary Display Lite",
+	"URL": "https://github.com/chaichaimee/Dictionary Display Lite/releases/download/2026.2/Dictionary Display Lite-v2026.2.nvda-addon",
+	"description": "Hear only what matters clean, crisp dictionary entries",
+	"sha256": "70192dc3e12242f6f2be2fc80397c094142ba70f7e814af0980e197816fa92a4",
+	"addonVersionName": "2026.2",
+	"addonVersionNumber": {
+		"major": 2026,
+		"minor": 2,
+		"patch": 0
+	},
+	"minNVDAVersion": {
+		"major": 2022,
+		"minor": 4,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2025,
+		"minor": 3,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "chai chaimee <chaicm75@gmail.com>",
+	"sourceURL": "https://github.com/chaichaimee/Dictionary Display Lite",
+	"license": "GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+	"translations": [
+		{
+			"language": "en",
+			"displayName": "Dictionary Display Lite",
+			"description": "Hear only what matters clean, crisp dictionary entries"
+		},
+		{
+			"language": "de",
+			"displayName": "Dictionary Display Lite",
+			"description": "Hören Sie nur das Wichtigste – saubere, prägnante Wörterbucheinträge"
+		},
+		{
+			"language": "es",
+			"displayName": "Dictionary Display Lite",
+			"description": "Escucha solo lo que importa: entradas de diccionario limpias y claras"
+		},
+		{
+			"language": "fr",
+			"displayName": "Dictionary Display Lite",
+			"description": "N'écoutez que l'essentiel – des entrées de dictionnaire claires et nettes"
+		},
+		{
+			"language": "ru",
+			"displayName": "Dictionary Display Lite",
+			"description": "Слушайте только важное — чистые и краткие словарные записи"
+		}
+	]
+}
