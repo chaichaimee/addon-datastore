@@ -3,7 +3,7 @@
 	"displayName": "specialCharacter",
 	"URL": "https://github.com/chaichaimee/specialCharacter/releases/download/2026.3/specialCharacter-V.2026.3.nvda-addon",
 	"description": "Eliminate complex Alt codes with professional-grade shortcuts for instant special character entry in MS Office and text editors.\nHot Keys:\nCtrl+0-9, Ctrl+Minus, and Ctrl+Equals : Insert Slot 1-12\nShift+Windows+. : Insert En Dash\nShift+Windows+/ : Insert Em Dash\nShift+Backspace (Single tap): Toggle character set\nShift+Backspace (Double tap) : Toggle On or Off",
-	"sha256": "7bb31b02990d093b3c50f7f8f5bc7c9c0f6ffa61588b4785cbeda672eadcc1ea",
+	"sha256": "d58d910609c173dc734c562d3bec2f213290c862661f0ee0107fbb4170fbe92b",
 	"addonVersionName": "2026.3",
 	"addonVersionNumber": {
 		"major": 2026,
