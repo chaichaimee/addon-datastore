@@ -1,0 +1,60 @@
+{
+	"addonId": "AbsoluteWindows",
+	"displayName": "AbsoluteWindows",
+	"URL": "https://github.com/chaichaimee/AbsoluteWindows/releases/download/2026.4.1/AbsoluteWindows-v2026.4.1.nvda-addon",
+	"description": "Professional Windows Maintenance & Control Suite\nHot Keys:\nALT+Windows+W : Open AbsoluteWindows Menu",
+	"sha256": "200d1266da90622adaeb937a11ff99ee5a20ca7dae9b700a3f51f77c8f5f1fc6",
+	"addonVersionName": "2026.4.1",
+	"addonVersionNumber": {
+		"major": 2026,
+		"minor": 4,
+		"patch": 1
+	},
+	"minNVDAVersion": {
+		"major": 2024,
+		"minor": 4,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2025,
+		"minor": 3,
+		"patch": 3
+	},
+	"channel": "stable",
+	"publisher": "chai chaimee <chaicm75@gmail.com>",
+	"sourceURL": "https://github.com/chaichaimee/AbsoluteWindows",
+	"license": "GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+	"translations": [
+		{
+			"language": "en",
+			"displayName": "AbsoluteWindows",
+			"description": "Professional Windows Maintenance & Control Suite\nHot Keys:\nALT+Windows+W : Open AbsoluteWindows Menu"
+		},
+		{
+			"language": "de",
+			"displayName": "AbsoluteWindows",
+			"description": "Professionelle Suite für Windows-Wartung und -Steuerung\nTastenkombinationen:\nALT+Windows+W : AbsoluteWindows-Menü öffnen"
+		},
+		{
+			"language": "es",
+			"displayName": "AbsoluteWindows",
+			"description": "Suite profesional de mantenimiento y控制 de Windows\nTeclas rápidas:\nALT+Windows+W : abrir el menú de AbsoluteWindows"
+		},
+		{
+			"language": "fr",
+			"displayName": "AbsoluteWindows",
+			"description": "Suite professionnelle de maintenance et de contrôle de Windows\nTouches de raccourci :\nALT+Windows+W : ouvrir le menu AbsoluteWindows"
+		},
+		{
+			"language": "ru",
+			"displayName": "AbsoluteWindows",
+			"description": "Профессиональный набор инструментов для обслуживания и управления Windows\nГорячие клавиши:\nALT+Windows+W : открыть меню AbsoluteWindows"
+		},
+		{
+			"language": "uk",
+			"displayName": "AbsoluteWindows",
+			"description": "Професійний набір інструментів для обслуговування та керування Windows\nГарячі клавіші:\nALT+Windows+A : відкрити меню AbsoluteWindows"
+		}
+	]
+}
