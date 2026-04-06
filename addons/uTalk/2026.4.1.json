@@ -3,7 +3,7 @@
 	"displayName": "uTalk",
 	"URL": "https://github.com/chaichaimee/uTalk/releases/download/2026.4.1/uTalk-v2026.4.1.nvda-addon",
 	"description": "Elevate your clipboard experience: monitors actions like copy, cut, and paste etc, transforming standard system alerts into custom voices limited only by your imagination.\nHot Key:\nNVDA+ALT+T\nSingle : Toggle language\nDouble : open uTalk setting",
-	"sha256": "058e466ec98bee8f88ee0957164f9adbc85630487126f5751caddbf52dd2f7f1",
+	"sha256": "c2436a4d91464e61f9fcc73b04d1e951d25a6f7b80a690377d319f678bb2a52c",
 	"addonVersionName": "2026.4.1",
 	"addonVersionNumber": {
 		"major": 2026,
@@ -12,7 +12,7 @@
 	},
 	"minNVDAVersion": {
 		"major": 2024,
-		"minor": 1,
+		"minor": 4,
 		"patch": 0
 	},
 	"lastTestedVersion": {
