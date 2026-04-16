@@ -3,7 +3,7 @@
 	"displayName": "xBlock",
 	"URL": "https://github.com/chaichaimee/xBlock/releases/download/2026.4.4/xBlock-v2026.4.4.nvda-addon",
 	"description": "add-on to create, edit, and store text snippets for quick pasting into documents via a dialog. Supports Enter key for fast pasting.\nHot Key:\nWindows+F11 : open xBlock Setting",
-	"sha256": "dd27f5731c8c74f2381f292be27b4ea83c4bb2f69c427ef007a76811016eca1a",
+	"sha256": "6b24823302be174133cf9090c3006d64462b995f71a5fb738aa1926d9cbf6c0c",
 	"addonVersionName": "2026.4.4",
 	"addonVersionNumber": {
 		"major": 2026,
