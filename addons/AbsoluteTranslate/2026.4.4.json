@@ -3,7 +3,7 @@
 	"displayName": "AbsoluteTranslate",
 	"URL": "https://github.com/chaichaimee/AbsoluteTranslate/releases/download/2026.4.4/AbsoluteTranslate-v2026.4.4.nvda-addon",
 	"description": "Elevate your perspective with seamless, lightning-fast translations directly within NVDA. Experience absolute clarity and zero friction across any language\nHot Keys:\nALT+Windows+T\nSingle Tap : Translates Selected Text\nDouble Tap : Translates Last Speech\nTripple Tap : Open Absolute Translate Settings",
-	"sha256": "3f694d180fbf6dafdc46bd13a98e3260fe2cac6bdbbb7475e174c1a4e32baffd",
+	"sha256": "d540305e691b85c57cdb77ba7da9ed3c215e156eed841dc882f2f101b300072e",
 	"addonVersionName": "2026.4.4",
 	"addonVersionNumber": {
 		"major": 2026,
