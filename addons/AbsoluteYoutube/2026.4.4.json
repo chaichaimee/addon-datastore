@@ -3,7 +3,7 @@
 	"displayName": "AbsoluteYoutube",
 	"URL": "https://github.com/chaichaimee/AbsoluteYoutube/releases/download/2026.4.4/AbsoluteYoutube-v2026.4.4.nvda-addon",
 	"description": "Download YouTube videos as MP3, MP4 and WAV with resume, trim clips, snapshots, short URL copy, and smart failed download manager fast & accessible for NVDA users.\nWhy waste time opening a video page when you can grab it instantly? Our latest update introduces the revolutionary Focus and Fetch feature. Simply focus your cursor on any video link and trigger your download immediately - no more waiting for pages to load.\nHot Keys:\n- NVDA+Y\nSingle Tap: Download MP3\nDouble Tap: Download MP4\nTriple Tap: Download WAV\n- CTRL+Shift+Y\nSingle Tap: Open Context Menu\nDouble Tap: Open Destination Folder\nTripple Tap : Search Video\nNVDA+Shift+Y: Toggle playlist mode\n- ALT+Windows+Y: Cycle MP3 quality",
-	"sha256": "8aad8ae307e7a9ec955b45c9097586f0bc4ebda69b993fef6b3f51ab8caebf92",
+	"sha256": "573155d066f7f1d7bcae3606c45ff1cf36472e035fdd3979783eb2ce67761507",
 	"addonVersionName": "2026.4.4",
 	"addonVersionNumber": {
 		"major": 2026,
