@@ -3,7 +3,7 @@
 	"displayName": "gestureDuplicate",
 	"URL": "https://github.com/chaichaimee/gestureDuplicate/releases/download/2026.5.1/gestureDuplicate-v2026.5.1.nvda-addon",
 	"description": "Identifies and manages conflicting keyboard shortcuts in your NVDA configuration\nHot Keys:\nShift+Windows+G\nSingle Tap : Check for duplicate input gestures\nDouble Tap : My Gestures Management\nTripple Tap : Clean Configuration",
-	"sha256": "fcde350521b60e37f77f20fbee2b720a0c77fe0f6fbeefe049f752451a7f9c82",
+	"sha256": "699143b371c54011d6f2068de45e30831656a21ba0e4136c61e7485c5df8762f",
 	"addonVersionName": "2026.5.1",
 	"addonVersionNumber": {
 		"major": 2026,
@@ -45,6 +45,11 @@
 			"language": "bn",
 			"displayName": "gestureDuplicate",
 			"description": "Identifikuje a spravuje konfliktní klávesové zkratky v konfiguraci NVDA\nHorké klávesy:\nShift+Windows+G\nJedno klepnutí: Kontrola duplicitních vstupních gest\nDvojité klepnutí: Správa mých gest\nTrojité klepnutí: Vyčistit konfiguraci"
+		},
+		{
+			"language": "cs",
+			"displayName": "gestureDuplicate",
+			"description": "Identifikuje a spravuje konfliktní klávesové zkratky ve vaší konfiguraci NVDA\nHorké klávesy:\nShift+Windows+G\nJedno stisknutí: Kontrola duplicitních vstupních gest\nDvojité stisknutí: Správa mých gest\nTrojité stisknutí: Vyčistit konfiguraci"
 		},
 		{
 			"language": "da",
