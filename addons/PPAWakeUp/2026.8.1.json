@@ -1,0 +1,35 @@
+{
+	"addonId": "PPAWakeUp",
+	"displayName": "PPA Tatip WakeUp ตาทิพย์จงตื่น!",
+	"URL": "https://github.com/chaichaimee/PPAWakeUp/releases/download/2026.8.1/PPAWakeUp-v2026.8.1.nvda-addon",
+	"description": "Retrieve PPA Tatip Synthesizers that are stuck and return to normal operation.\nHot Keys:\nWindows+P\nSingle Tap wake up  PPA Tatip\nDouble Tap Open PPA Tatip options\nTripple Tap Open Tatip Menu",
+	"sha256": "4c5c4223f7c4770a6849f80a6fe7d077731163c91a5c967e28beea07ea44dfcc",
+	"addonVersionName": "2026.8.1",
+	"addonVersionNumber": {
+		"major": 2026,
+		"minor": 8,
+		"patch": 1
+	},
+	"minNVDAVersion": {
+		"major": 2024,
+		"minor": 4,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2026,
+		"minor": 1,
+		"patch": 1
+	},
+	"channel": "stable",
+	"publisher": "Chai Chaimee <chaicm75@gmail.com>",
+	"sourceURL": "https://github.com/chaichaimee/PPAWakeUp",
+	"license": "GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+	"translations": [
+		{
+			"language": "en",
+			"displayName": "PPA Tatip WakeUp ตาทิพย์จงตื่น!",
+			"description": "Retrieve PPA Tatip Synthesizers that are stuck and return to normal operation.\nHot Keys:\nWindows+P\nSingle Tap wake up  PPA Tatip\nDouble Tap Open PPA Tatip options\nTripple Tap Open Tatip Menu"
+		}
+	]
+}
