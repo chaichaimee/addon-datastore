@@ -1,0 +1,35 @@
+{
+	"addonId": "CMDReader",
+	"displayName": "CMDReader",
+	"URL": "https://github.com/chaichaimee/CMDReader/releases/download/2026.8.5/CMDReader-v2026.8.5.nvda-addon",
+	"description": "Command Line Accessibility, Redefined.\nHot Keys:\nCTRLALT+L : Open CMDReader File\nctrl+alt+up arrow : Read the previous line\nctrl+alt+down arrow : Read the next line",
+	"sha256": "505eb93f1c5882cdfd019a8e8ab3d4d51b461dbcac7bb3497bf5e71ba55b36d1",
+	"addonVersionName": "2026.8.5",
+	"addonVersionNumber": {
+		"major": 2026,
+		"minor": 8,
+		"patch": 5
+	},
+	"minNVDAVersion": {
+		"major": 2024,
+		"minor": 4,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2026,
+		"minor": 1,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "Chai Chaimee <chaicm75@gmail.com>",
+	"sourceURL": "https://github.com/chaichaimee/CMDReader",
+	"license": "GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+	"translations": [
+		{
+			"language": "en",
+			"displayName": "CMDReader",
+			"description": "Command Line Accessibility, Redefined.\nHot Keys:\nCTRLALT+L : Open CMDReader File\nctrl+alt+up arrow : Read the previous line\nctrl+alt+down arrow : Read the next line"
+		}
+	]
+}
