@@ -1,0 +1,7 @@
+xPlorer v2026.9.0
+
+https://github.com/chaichaimee/xPlorer/releases/download/2026.9.0/xPlorer-v2026.9.0.nvda-addon
+
+https://github.com/chaichaimee/xPlorer
+
+Chai Chaimee
