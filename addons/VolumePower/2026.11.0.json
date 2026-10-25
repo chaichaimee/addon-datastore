@@ -1,0 +1,110 @@
+{
+	"addonId": "VolumePower",
+	"displayName": "VolumePower",
+	"URL": "https://github.com/chaichaimee/VolumePower/releases/download/2026.11.0/VolumePower-v2026.11.0.nvda-addon",
+	"description": "VolumePower gives quick control over NVDA volume, left and right ear levels, and computer power. Adjust NVDA volume with NVDA+Shift+PageUp and PageDown, open the ear volume layer with NVDA+Shift+NumPad Plus, and shut down or restart with Alt+Windows+S using single or double tap. An audio guard restores muted or low sound at startup.\"\"\"\n\nHot Keys:\nAlt+Windows+S\nSingle Tap : Shutdown computer\nDouble Tap : Restart computer\nNVDA+Shift+PageUp Increase NVDA volume\nNVDA+Shift+PageDown Decrease NVDA volume\"\"\"\nNVDA+Shift+NumPad Plus : Open the ear volume layer",
+	"sha256": "48ef30abba2e63d6e585bf2a99d5092e9728cec429470df2b4d2adf61cce7b82",
+	"addonVersionName": "2026.11.0",
+	"addonVersionNumber": {
+		"major": 2026,
+		"minor": 11,
+		"patch": 0
+	},
+	"minNVDAVersion": {
+		"major": 2025,
+		"minor": 1,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2026,
+		"minor": 2,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "Chai Chaimee <chaicm75@gmail.com>",
+	"sourceURL": "https://github.com/chaichaimee/VolumePower",
+	"license": "GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+	"translations": [
+		{
+			"language": "en",
+			"displayName": "VolumePower",
+			"description": "VolumePower gives quick control over NVDA volume, left and right ear levels, and computer power. Adjust NVDA volume with NVDA+Shift+PageUp and PageDown, open the ear volume layer with NVDA+Shift+NumPad Plus, and shut down or restart with Alt+Windows+S using single or double tap. An audio guard restores muted or low sound at startup.\"\"\"\n\nHot Keys:\nAlt+Windows+S\nSingle Tap : Shutdown computer\nDouble Tap : Restart computer\nNVDA+Shift+PageUp Increase NVDA volume\nNVDA+Shift+PageDown Decrease NVDA volume\"\"\"\nNVDA+Shift+NumPad Plus : Open the ear volume layer"
+		},
+		{
+			"language": "ar",
+			"displayName": "مستوى الصوت والطاقة",
+			"description": "يتيح VolumePower تحكماً سريعاً في مستوى صوت NVDA، ومستويات الأذن اليمنى واليسرى، وتطبيقات طاقة الكمبيوتر. اضبط صوت NVDA باستخدام NVDA+Shift+PageUp وPageDown، وافتح طبقة صوت الأذنين باستخدام NVDA+Shift+NumPad Plus، وأوقف التشغيل أو أعد التشغيل باستخدام Alt+Windows+S بنقرة مفردة أو مزدوجة. يعمل واقي الصوت على استعادة الصوت الصامت أو المنخفض عند بدء التشغيل."
+		},
+		{
+			"language": "de",
+			"displayName": "Lautstärke und Energie",
+			"description": "VolumePower bietet eine Schnellsteuerung für die NVDA-Lautstärke, die Balance für das linke und rechte Ohr sowie die Computerenergie. Passen Sie die NVDA-Lautstärke mit NVDA+Shift+BildAuf und BildAb an, öffnen Sie die Ohr-Lautstärkenebene mit NVDA+Shift+NumPad Plus und fahren Sie den Computer mit Alt+Windows+S durch einfaches oder doppeltes Tippen herunter oder starten Sie ihn neu. Ein Audio-Schutz stellt stummgeschaltete oder leise Töne beim Start wieder her."
+		},
+		{
+			"language": "es",
+			"displayName": "Volumen y energía",
+			"description": "Volumen y energía ofrece un control rápido del volumen de NVDA, los niveles de los oídos izquierdo y derecho, y la energía del equipo. Ajusta el volumen de NVDA con NVDA+Mayús+Re Pág y Av Pág, abre la capa de volumen de los oídos con NVDA+Mayús+NumPad Más, y apaga o reinicia con Alt+Windows+S usando una o dos pulsaciones. Un protector de audio restablece el sonido silenciado o bajo al iniciar."
+		},
+		{
+			"language": "fr",
+			"displayName": "VolumePower",
+			"description": "VolumePower permet un contrôle rapide du volume d'NVDA, des niveaux des oreilles gauche et droite, ainsi que de l'alimentation de l'ordinateur. Ajustez le volume d'NVDA avec NVDA+Shift+PageUp et PageDown, ouvrez la couche de volume des oreilles avec NVDA+Shift+Pavé Numérique Plus, et éteignez ou redémarrez avec Alt+Windows+S en utilisant une simple ou double pression. Une protection audio restaure le son coupé ou bas au démarrage."
+		},
+		{
+			"language": "hi",
+			"displayName": "वॉल्यूम पावर",
+			"description": "वॉल्यूम पावर एनवीडीए वॉल्यूम, बाएं और दाएं कान के स्तर और कंप्यूटर पावर पर त्वरित नियंत्रण देता है। एनवीडीए+शिफ्ट+पेजअप और पेजडाउन के साथ एनवीडीए वॉल्यूम समायोजित करें, एनवीडीए+शिफ्ट+नंबरपैड प्लस के साथ ईयर वॉल्यूम लेयर खोलें, और सिंगल या डबल टैप का उपयोग करके Alt+Windows+S के साथ शट डाउन या रीस्टार्ट करें। एक ऑडियो गार्ड स्टार्टअप पर म्यूट या कम ध्वनि को पुनर्स्थापित करता है।"
+		},
+		{
+			"language": "id",
+			"displayName": "VolumePower",
+			"description": "VolumePower memberikan kontrol cepat terhadap volume NVDA, tingkat telinga kiri dan kanan, serta daya komputer. Sesuaikan volume NVDA dengan NVDA+Shift+PageUp dan PageDown, buka lapisan volume telinga dengan NVDA+Shift+NumPad Plus, dan matikan atau mulai ulang dengan Alt+Windows+S menggunakan ketukan tunggal atau ganda. Pelindung audio memulihkan suara yang bisu atau rendah saat permulaan."
+		},
+		{
+			"language": "it",
+			"displayName": "Ses ve Güç",
+			"description": "Ses ve Güç, NVDA ses seviyesine, sol ve sağ kulak düzeylerine ve bilgisayar güç seçeneklerine hızlı erişim sağlar. NVDA ses seviyesini NVDA+Shift+PageUp ve PageDown ile ayarlayın, NVDA+Shift+NumPad Artı ile kulak ses düzeyi katmanını açın ve Alt+Windows+S tuşlarına tek veya çift basarak kapatın veya yeniden başlatın. Ses koruması, başlangıçta sessize alınan veya düşük olan sesi eski haline getirir."
+		},
+		{
+			"language": "ja",
+			"displayName": "音量と電源",
+			"description": "音量と電源 (VolumePower) では、NVDAの音量、左右の耳の音量バランス、およびコンピューターの電源をすばやく操作できます。NVDA+Shift+PageUpおよびPageDownでNVDAの音量を調節し、NVDA+Shift+テンキーのプラスで左右の音量調整レイヤーを開き、Alt+Windows+Sのシングルタップまたはダブルタップでシャットダウンや再起動を行います。オーディオガード機能により、起動時にミュートや低い音量が復元されます。"
+		},
+		{
+			"language": "ko",
+			"displayName": "볼륨 및 전원",
+			"description": "VolumePower는 NVDA 볼륨, 좌우 오디오 채널, 컴퓨터 전원을 간편하게 제어할 수 있는 기능을 제공합니다. NVDA+Shift+PageUp 및 PageDown으로 NVDA 볼륨을 조절하고, NVDA+Shift+NumPad Plus로 이어 볼륨 레이어를 열며, Alt+Windows+S를 한 번 또는 두 번 눌러 시스템을 종료하거나 재시작할 수 있습니다. 또한 오디오 가드 기능이 시작 시 음소거되었거나 낮은 소리를 복원해 줍니다."
+		},
+		{
+			"language": "pt_BR",
+			"displayName": "VolumePower",
+			"description": "VolumePower oferece controle rápido sobre o volume do NVDA, os níveis dos ouvidos esquerdo e direito, e a energia do computador. Ajuste o volume do NVDA com NVDA+Shift+PageUp e PageDown, abra a camada de volume dos ouvidos com NVDA+Shift+NumPad Mais, e desligue ou reinicie com Alt+Windows+S usando um ou dois toques. Um protetor de áudio restaura o som silenciado ou baixo na inicialização."
+		},
+		{
+			"language": "ru",
+			"displayName": "Управление звуком и питанием",
+			"description": "Управление звуком и питанием предоставляет быстрый доступ к регулировке громкости NVDA, балансу левого и правого уха, а также управлению питанием компьютера. Настраивайте громкость NVDA с помощью NVDA+Shift+PageUp и PageDown, открывайте слой регулировки баланса по ушам с помощью NVDA+Shift+цифровой плюс, а также выключайте или перезагружайте компьютер комбинацией Alt+Windows+S с одинаковым или двойным нажатием. Защита слуха восстанавливает отключенный или тихий звук при запуск."
+		},
+		{
+			"language": "th",
+			"displayName": "ปรับระดับเสียงและพลังงาน",
+			"description": "VolumePower ให้การควบคุมที่รวดเร็วสำหรับระดับเสียง NVDA ระดับเสียงหูซ้ายและขวา และพลังงานคอมพิวเตอร์ ปรับระดับเสียง NVDA ด้วย NVDA+Shift+PageUp และ PageDown, เปิดเลเยอร์ระดับเสียงหูด้วย NVDA+Shift+NumPad Plus, และปิดเครื่องหรือรีสตาร์ทด้วย Alt+Windows+S โดยการแตะครั้งเดียวหรือสองครั้ง ระบบป้องกันเสียงจะคืนค่าเสียงที่ปิดหรือเบาเมื่อเริ่มต้นระบบ"
+		},
+		{
+			"language": "uk",
+			"displayName": "Гучність і живлення",
+			"description": "Додаток VolumePower забезпечує швидке керування гучністю NVDA, рівнями правого та лівого вух і живленням комп'ютера. Регулюйте гучність NVDA за допомогою NVDA+Shift+PageUp і PageDown, відкривайте шар гучності для кожного вуха за допомогою NVDA+Shift+NumPad Plus, а також вимикайте чи перезавантажуйте комп'ютер за допомогою Alt+Windows+S одиночним або подвійним натисканням. Аудіозахист відновлює вимкнений або тихий звук під час запуску."
+		},
+		{
+			"language": "zh_CN",
+			"displayName": "声音与电源",
+			"description": "声音与电源（VolumePower）可快速控制 NVDA 音量、左右耳音量平衡以及计算机电源。使用 NVDA+Shift+PageUp 和 PageDown 调整 NVDA 音量，使用 NVDA+Shift+小键盘加号打开双耳音量层，使用 Alt+Windows+S（单击或双击）关机或重启。音频保护功能可在启动时恢复被静音或过低的声音。"
+		},
+		{
+			"language": "zh_TW",
+			"displayName": "音量與電源",
+			"description": "「音量與電源」讓您可以快速控制 NVDA 的音量、左右耳聲道音量以及電腦電源。使用 NVDA+Shift+PageUp 和 PageDown 調整 NVDA 音量，使用 NVDA+Shift+數字鍵盤加號開啟雙耳音量層，並使用 Alt+Windows+S 透過單擊或雙擊來關機或重新開機。聲音防護功能會在啟動時恢復被靜音或過小的聲音。"
+		}
+	]
+}
