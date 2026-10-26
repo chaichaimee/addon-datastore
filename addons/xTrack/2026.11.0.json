@@ -1,0 +1,35 @@
+{
+	"addonId": "xTrack",
+	"displayName": "xTrack",
+	"URL": "https://github.com/chaichaimee/xTrack/releases/download/2026.11.0/xTrack-v2026.11.0.nvda-addon",
+	"description": "xTrack adds a File Explorer menu Alt+Windows+X to convert, trim, merge, split, normalize, enhance and resize audio, video and images. Its recorder captures system audio and microphone with optional noise reduction.\n\n\nHot Keys:\nALT+Windows+X : Open xTrack Menu\nCTRL+Shift+SpaceBar : Start and pause Recording\nCTRL+Windows+SpaceBar : Stop Record",
+	"sha256": "b19ffd4886870caa1b9cf98748d34ea3bdb6dfc12be148a92c39c56eb6685c5d",
+	"addonVersionName": "2026.11.0",
+	"addonVersionNumber": {
+		"major": 2026,
+		"minor": 11,
+		"patch": 0
+	},
+	"minNVDAVersion": {
+		"major": 2025,
+		"minor": 1,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2026,
+		"minor": 2,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "Chai Chaimee <chaicm75@gmail.com>",
+	"sourceURL": "https://github.com/chaichaimee/xTrack",
+	"license": "GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+	"translations": [
+		{
+			"language": "en",
+			"displayName": "xTrack",
+			"description": "xTrack adds a File Explorer menu Alt+Windows+X to convert, trim, merge, split, normalize, enhance and resize audio, video and images. Its recorder captures system audio and microphone with optional noise reduction.\n\n\nHot Keys:\nALT+Windows+X : Open xTrack Menu\nCTRL+Shift+SpaceBar : Start and pause Recording\nCTRL+Windows+SpaceBar : Stop Record"
+		}
+	]
+}
