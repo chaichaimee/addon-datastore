@@ -1,0 +1,40 @@
+{
+	"addonId": "PPAWakeUp",
+	"displayName": "PPA Tatip WakeUp ตาทิพย์จงตื่น!",
+	"URL": "https://github.com/chaichaimee/PPAWakeUp/releases/download/2026.11.3/PPAWakeUp-v2026.11.3.nvda-addon",
+	"description": "PPAWakeUp ensures PPA Tatip runs smoothly with NVDA by automatically recovering from crashes and offering quick engine management. It features auto-reboot upon failure, CJK character speech filtering to prevent freezes, dialog button crash protection, and built-in dictionary backup and a dictionary editor.\n\nHot Keys:\nWindows+P\nSingle Tap wake up  PPA Tatip\nDouble Tap Edit the PPA Tatip dictionary (userdict.txt)\nTripple Tap Open Tatip Menu (backup and restore of the Tatip dictionary and of the Tatip voice option setting, standard default tatip voice settings, Open Tatip options, Open Tatip folder)",
+	"sha256": "0ad81b42206064e1e76bccc85b8b0aa5b628b349580930c1beebde597ec8bebb",
+	"addonVersionName": "2026.11.3",
+	"addonVersionNumber": {
+		"major": 2026,
+		"minor": 11,
+		"patch": 3
+	},
+	"minNVDAVersion": {
+		"major": 2025,
+		"minor": 1,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2026,
+		"minor": 3,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "Chai Chaimee <chaicm75@gmail.com>",
+	"sourceURL": "https://github.com/chaichaimee/PPAWakeUp",
+	"license": "GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+	"translations": [
+		{
+			"language": "en",
+			"displayName": "PPA Tatip WakeUp ตาทิพย์จงตื่น!",
+			"description": "PPAWakeUp ensures PPA Tatip runs smoothly with NVDA by automatically recovering from crashes and offering quick engine management. It features auto-reboot upon failure, CJK character speech filtering to prevent freezes, dialog button crash protection, and built-in dictionary backup and a dictionary editor.\n\nHot Keys:\nWindows+P\nSingle Tap wake up  PPA Tatip\nDouble Tap Edit the PPA Tatip dictionary (userdict.txt)\nTripple Tap Open Tatip Menu (backup and restore of the Tatip dictionary and of the Tatip voice option setting, standard default tatip voice settings, Open Tatip options, Open Tatip folder)"
+		},
+		{
+			"language": "th",
+			"displayName": "PPA Tatip WakeUp ตาทิพย์จงตื่น!",
+			"description": "PPAWakeUp ช่วยให้ PPA Tatip ทำงานร่วมกับ NVDA ได้อย่างราบรื่นโดยการกู้คืนอัตโนมัติเมื่อเกิดข้อผิดพลาดและจัดการเครื่องมือได้อย่างรวดเร็ว มีคุณสมบัติรีบูตอัตโนมัติเมื่อล้มเหลว การกรองคำพูดอักษร CJK เพื่อป้องกันอาการค้าง การป้องกันการขัดข้องของปุ่มในกล่องโต้ตอบ รวมถึงการสำรองข้อมูลพจนานุกรมในตัวและโปรแกรมแก้ไขพจนานุกรม\n\nปุ่มลัด:\nWindows+P\nกดครั้งเดียวเพื่อปลุก PPA Tatip\nกดสองครั้งเพื่อแก้ไขพจนานุกรม PPA Tatip (userdict.txt)\nกดสามครั้งเพื่อเปิดเมนูตาทิพย์ (สำรองและคืนค่าพจนานุกรมตาทิพย์และการตั้งค่าตัวเลือกเสียงตาทิพย์, การตั้งค่าเสียงตาทิพย์เริ่มต้นมาตรฐาน, เปิดตัวเลือกตาทิพย์, เปิดโฟลเดอร์ตาทิพย์)"
+		}
+	]
+}
